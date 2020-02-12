@@ -6,5 +6,7 @@
 ![image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/1.jpg)
 第二次使用双指针解法，速度有显著提高：
 ![image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/2.jpg)
+第三次使用python迭代特性优化双指针法，速度进一步提高：
+![image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/3.jpg)
 
 
