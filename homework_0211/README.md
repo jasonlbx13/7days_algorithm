@@ -3,8 +3,8 @@
     不要使用额外的数组空间，你必须在原地修改输入数组并在使用 O(1) 额外空间的条件下完成。
     
 第一次使用遍历栈解法：
-[!image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/1.jpg)
+![image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/1.jpg)
 第二次使用双指针解法，速度有显著提高：
-[!image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/2.jpg)
+![image](https://github.com/jasonlbx13/7days_algorithm/blob/master/homework_0211/pic/2.jpg)
 
 
