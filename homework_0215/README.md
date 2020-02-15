@@ -1,7 +1,7 @@
 ﻿# 第五天作业
     设计实现双端队列。
     你的实现需要支持以下操作：
-        MyCircularDeque(k)：构造函数,双端队列的大小为k。
+    MyCircularDeque(k)：构造函数,双端队列的大小为k。
 	insertFront()：将一个元素添加到双端队列头部。 如果操作成功返回 true。
 	insertLast()：将一个元素添加到双端队列尾部。如果操作成功返回 true。
 	deleteFront()：从双端队列头部删除一个元素。 如果操作成功返回 true。
